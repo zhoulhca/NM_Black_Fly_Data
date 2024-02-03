@@ -1,5 +1,6 @@
 # Whelpley-Zhou_Black_Fly_Data
-Additional data and files for Article: Community Composition of Black Flies During and After the 2020 Vesicular Stomatitis Virus Outbreak In Southern New Mexico" (Journal: Parasites and Vectors)
+Additional data and files for Article: Community Composition of Black Flies During and After the 2020 Vesicular Stomatitis Virus Outbreak In Southern New Mexico" (Journal: Parasites and Vectors) 
+
 All sequences are available on Genbank (Accession Numbers: OR458924-OR459501)
 
 File Information: 
