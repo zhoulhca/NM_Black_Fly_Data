@@ -1,5 +1,7 @@
 # Whelpley-Zhou_Black_Fly_Data
-Additional data and files for Article: Whelpley, M. J., Zhou, L. H., Rascon, J., Payne, B., Moehn, B., Young, K. I., Mire, C. E., Peters, D. P. C., Rodriguez, L. L., & Hanley, K. A. (2024). Community composition of black flies during and after the 2020 vesicular stomatitis virus outbreak in Southern New Mexico, USA. Parasites & Vectors, 17(1), 93. https://doi.org/10.1186/s13071-024-06127-6 
+Additional data and files for:
+
+Whelpley, M. J., Zhou, L. H., Rascon, J., Payne, B., Moehn, B., Young, K. I., Mire, C. E., Peters, D. P. C., Rodriguez, L. L., & Hanley, K. A. (2024). Community composition of black flies during and after the 2020 vesicular stomatitis virus outbreak in Southern New Mexico, USA. Parasites & Vectors, 17(1), 93. https://doi.org/10.1186/s13071-024-06127-6 
 
 All sequences are available on Genbank (Accession Numbers: OR458924-OR459501)
 
